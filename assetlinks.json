@@ -1,0 +1,17 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cn.TuHu.android",
+    "sha256_cert_fingerprints":
+    ["E7:39:BC:3C:1A:1E:C2:5C:C5:59:09:45:5B:E4:99:11:46:41:F3:7C:A5:4C:F1:F6:25:FF:76:7E:0E:79:87:02"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cn.TuHu.android.huawei",
+    "sha256_cert_fingerprints":
+    ["E7:39:BC:3C:1A:1E:C2:5C:C5:59:09:45:5B:E4:99:11:46:41:F3:7C:A5:4C:F1:F6:25:FF:76:7E:0E:79:87:02"]
+  }
+}]
